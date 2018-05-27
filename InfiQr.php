@@ -15,7 +15,7 @@
 
 require_once(dirname(__FILE__) . '/InfiQr/qrlib.php');
 
-class Qrcodegen 
+class Infiqr 
 {
 
 
