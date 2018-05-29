@@ -44,4 +44,6 @@ Contents
     This Library was built using [PHPqrcode](http://phpqrcode.sourceforge.net/examples/index.php?example=025).
 
 
-    
+ Feel free to send me an email if you have any problems.
+
+Thanks, - Naseem Fasal naseem at infiyo dot com  /  @naseemfasal 
